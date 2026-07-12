@@ -19,6 +19,7 @@
     }
   },
   "type": "module",
+  "packageManager": "pnpm@11.11.0",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.111.0",
     "@google/genai": "^2.11.0",

@@ -1,5 +1,5 @@
 import { OpenAI } from "openai";
-import { zodTextFormat } from "openai/helpers/zod.mjs";
+import { zodTextFormat } from "openai/helpers/zod";
 import { LlmModelResponse } from "../schema.js";
 
 const openai = new OpenAI();
